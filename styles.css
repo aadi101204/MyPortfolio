@@ -1,0 +1,85 @@
+*{
+    background-color:#D8D8D8;
+    color: #245953;
+    font-family: 'Cardo', serif;
+    font-family: 'Caveat', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+}
+
+h1{
+    text-align: center;
+    background-color: #B3C890;
+    padding:10px 3px 10px 3px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    border-radius:40px;
+}
+.myImage{
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.intro{
+    font-size: large;
+}
+.webdev{
+    text-align: center;
+}
+.firstthing{
+    text-align: center;
+    font-family: cursive;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+    padding:8px 10px 8px 10px;
+    border-radius: 6px;
+    border:none;
+    background-color: #F9F5EB;
+    cursor:pointer;
+}
+.secondthing{
+    text-align: center;
+    font-family: cursive;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+    padding:8px 10px 8px 10px;
+    border-radius: 6px;
+    border:none;
+    background-color: #F9F5EB;
+    cursor:pointer;
+}
+.contactpage{
+    text-align: center;
+    font-family: cursive;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+    padding:10px 20px 10px 20px;
+    border-radius: 6px;
+    border:none;
+    background-color: #F9F5EB;
+    cursor:pointer;
+}
+.firsthing :active{
+    color:#F9F5EB;
+    background-color: #245953;
+}
+.secondthing :active{
+    color: #F9F5EB;
+    background-color: #245953;
+}
+.contactpage :active{
+    color:#F9F5EB;
+    background-color: #245953;
+}
+
